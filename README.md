@@ -86,13 +86,16 @@ Here are some ideas to get you started:
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in//" target="blank">
+
+ <a href="https://www.linkedin.com/in/vivek-agarwal-619004200/" target="blank">
   <img align="center" alt="Vivek's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
 
- <a href="vivek.agarwal.ece20@itbhu.ac.in" target="blank">
-  <img align="center" alt="Vivek's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+ <a href="mailto:vivek.agarwal.ece20@itbhu.ac.in?subject=Hello Vivek" target="blank">
+  <img align="center" alt="Vivek's Mail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+	 
  </a> 
+
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
