@@ -7,7 +7,7 @@
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 ### Hello world!
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-I am an 2nd year undergraduate Electronics Engineering student at <a href="https://iitbhu.ac.in/"> <b>Indian Institute of Technology</b>, Varanasi</a>. <br>
+I am an 3nd year undergraduate Electronics Engineering student at <a href="https://iitbhu.ac.in/"> <b>Indian Institute of Technology</b>, Varanasi</a>. <br>
 I love to learn and build something new, productive, innovative and creative.
 
  **I am interested in Computer Vision, Reinforcement Learning and their integration with Robotics.**
